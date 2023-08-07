@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @wzmonteiro (Washington Monteiro, From Brazil);
-- 👀 I’m interested in move my career from operations to data science.
 - 🌱 I’m currently learning Python Dashboards in plotly, supervisioned and unsupervisioned machine learning for data science.
 - 📫 Reach me by e-mail in wzmonteiro@gmail.com
 
